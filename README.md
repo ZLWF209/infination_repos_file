@@ -17,5 +17,6 @@ The aim of this project is to showcase that sometimes engagement with this funct
 I will plan to use the html software to create the code for both generating images and for the infinite scroll. If possible, I might also use a function to randomly generate these images as part of my database for each time.
 
 # Wireframes 
-![Wireframe Image 1](infination_wireframe1.jpg) 
-![Wireframe Image 2](infination_wireframe2.jpg)
+![infination_wireframe1](https://github.com/ZLWF209/infination_repos_file/assets/150643739/e4fe9c45-2469-4f36-bb41-599b3965ecb8)
+![infination_wireframe2](https://github.com/ZLWF209/infination_repos_file/assets/150643739/75c807fa-afbf-4a4a-af31-ca4d4fe7cfbc)
+
